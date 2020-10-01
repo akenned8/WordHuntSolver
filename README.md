@@ -4,9 +4,10 @@ If you're unfamiliar with WordHunt, check out the demo section first. The progra
 <h3>Demo:</h3>
 The instructions for the game are as follows:
 <img src="demo/wordhuntinstr.png" width="200"/>
-![instructions](demo/wordhuntinstr.png)
-![program output](demo/wordhuntoutput.png)
-![using output in the game!](demo/iphonedemo.gif)
+<body> Here is a live demo </body>
+<img src="demo/wordhuntoutput.png" width="200"/>
+<img src="demo/iphonedemo.gif" width="200"/>
+
 
 note:
 wordhunt.cpp and wordhunt.py do the same thing. I originally wrote the program in Python but I wanted fast performance so I wrote the final version in C++ (and included some minor improvements to time/memory complexity and organization).
